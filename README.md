@@ -12,20 +12,21 @@
     
 <h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Linguagem de Programação Orientada a Objetos Java.
 
-<br>
 Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
 
-    
+
+<br>
 <h1>Disciplina</h1>
     
-    <h3>A linguagem de programação permite que um programador crie programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. Esse conjunto faz o controle do comportamento físico e lógico de uma máquina.</h3>
-
+<h3>
+A linguagem de programação permite que um programador crie programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. Esse conjunto faz o controle do comportamento físico e lógico de uma máquina
+</h3>
+<br>
+    
 <br>
 <h1>Ementa</h1> 
-<br>
 
  <h3> 
- 
 - Variaveis
 - Constantes
 - Operadores
@@ -40,7 +41,6 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 </h3>
     
 <br>
-    
 <h1>Objetivo</h1>
 <h3>Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação</h3>
     
