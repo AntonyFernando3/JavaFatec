@@ -19,7 +19,7 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 
 <h3> 
 ·Variáveis 
-Constantes
+- Constantes
 Operadores  
 Expressões 
 Comando de desvio 
