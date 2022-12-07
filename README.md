@@ -1,7 +1,7 @@
 # JavaFatec
 
 <div class="box">
-    <img src="http://www.fatecjd.edu.br/pec/images/fatec-logo-completo.png" height="50"/>
+    <img src="http://www.fatecjd.edu.br/pec/images/fatec-logo-completo.png" height="70"/>
 </div>
 
 <h1> Este repositório e dedicado ao armazenamento dos códigos da Linguagem de Programação Orientada a Objetos Java.
