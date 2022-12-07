@@ -19,7 +19,7 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 <h1>DISCIPLINA</h1>
     
 <h3 align="justify">
-A linguagem de programação permite que um programador crie programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. Esse conjunto faz o controle do comportamento físico e lógico de uma máquina
+A disciplina de linguagem de programação permite que um programador crie programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. Esse conjunto faz o controle do comportamento físico e lógico de uma máquina ou sistema.
 </h3>
 <br>
     
@@ -47,7 +47,7 @@ A linguagem de programação permite que um programador crie programas a partir 
 <br>
 
 <h1 align="justify">OBJETIVO</h1>
-<h3>Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação</h3>
+<h3>Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação.</h3>
     
 </div>
 
