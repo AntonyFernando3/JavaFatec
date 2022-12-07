@@ -15,19 +15,31 @@
 <br>
 Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
 
+<br>
+<br>
 <h1>Ementa</h1> 
 
 <h3> 
 · Variáveis 
+
 · Constantes
-· Operadores  
-· Expressões 
-· Comando de desvio 
-· Controle de malhas 
+
+· Operadores
+
+· Expressões
+
+· Comando de desvio
+
+· Controle de malhas
+
 · Vetores e ponteiros 
+
 · Funções de biblioteca 
+
 · Estruturas
+
 · Uniões 
+
 · Manipulação de arquivos
 </h3>
     
