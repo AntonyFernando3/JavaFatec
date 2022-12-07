@@ -15,38 +15,30 @@
 <br>
 Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
 
+    
+<h1>Disciplina</h1>
+    
+    <h3>A linguagem de programação permite que um programador crie programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. Esse conjunto faz o controle do comportamento físico e lógico de uma máquina.</h3>
 
 <br>
 <h1>Ementa</h1> 
 <br>
 
+ <h3> 
+ 
 - Variaveis
 - Constantes
-- 👨🏻‍🎓 Rede de Computadores - Senai Osasco.   
-<h3> 
- 
-· Variáveis 
-    
-· Constantes
-    
-· Operadores
-
-· Expressões
-
-· Comando de desvio
-
-· Controle de malhas
-
-· Vetores e ponteiros 
-
-· Funções de biblioteca 
-
-· Estruturas
-
-· Uniões 
-
-· Manipulação de arquivos
+- Operadores
+- Expressões
+- Comando de desvio
+- Controle de malhas
+- Vetores e ponteiros 
+- Funções de biblioteca 
+- Estruturas
+- Uniões 
+- Manipulação de arquivos
 </h3>
+    
 <br>
     
 <h1>Objetivo</h1>
