@@ -10,7 +10,7 @@
     </tr>
 </table> 
     
-<h4 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Linguagem de Programação Orientada a Objetos Java.
+<h2 align="justify"> Este repositório e dedicado ao armazenamento dos códigos da Linguagem de Programação Orientada a Objetos Java.
 
 <br>
 Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
