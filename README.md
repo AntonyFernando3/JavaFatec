@@ -17,11 +17,25 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 
 <h1>Ementa</h1> 
 
-    <h3> 
-Variáveis, constantes, operadores e expressões. Comando de desvio. Controle de malhas. Vetores e ponteiros. Funções de biblioteca. Estruturas, uniões e tipos definidos pelo usuário. Manipulação de arquivos.   
-    </h3> 
+<h3> 
+Variáveis 
+Constantes
+Operadores  
+Expressões 
+Comando de desvio 
+Controle de malhas 
+Vetores e ponteiros 
+Funções de biblioteca 
+Estruturas
+Uniões 
+Manipulação de arquivos
+</h3>
     
+<h1>Objetivo</h1>
     
+    <h3>
+Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação
+        </h3>
 </div>
 
 
