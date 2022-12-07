@@ -13,9 +13,11 @@
         </div>
 
 <style>
+	
 div.box {
 	width: 150px;
 	display: inline-block;
 }
 </style>
+	
 </div>
