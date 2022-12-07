@@ -20,7 +20,9 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 <h1>Ementa</h1> 
 <br>
 
-    
+- Variaveis
+- Constantes
+- 👨🏻‍🎓 Rede de Computadores - Senai Osasco.   
 <h3> 
  
 · Variáveis 
