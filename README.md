@@ -18,10 +18,15 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 <br>
 <br>
 <h1>Ementa</h1> 
-
+<br>
+<br>
+    
 <h3> 
+ 
 · Variáveis 
+    
 · Constantes
+    
 · Operadores
 
 · Expressões
