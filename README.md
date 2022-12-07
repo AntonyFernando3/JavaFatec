@@ -1,6 +1,6 @@
 # JavaFatec
 
-<div style="display:inline_block">
+
 
 <div class="box">
 
@@ -22,4 +22,4 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 
 </div>
 
-</div>
+
