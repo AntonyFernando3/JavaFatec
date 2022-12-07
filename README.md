@@ -18,7 +18,7 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 <h1>Ementa</h1> 
 
 <h3> 
-Variáveis 
+·Variáveis 
 Constantes
 Operadores  
 Expressões 
