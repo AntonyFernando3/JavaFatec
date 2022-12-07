@@ -45,12 +45,11 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
 
 · Manipulação de arquivos
 </h3>
+<br>
     
 <h1>Objetivo</h1>
+<h3>Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação</h3>
     
-    <h3>
-Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação
-        </h3>
 </div>
 
 
