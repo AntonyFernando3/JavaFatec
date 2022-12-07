@@ -48,8 +48,8 @@ A disciplina de linguagem de programação permite que um programador crie progr
     
 <br>
 
-<h1 align="justify">OBJETIVO</h1>
-<h3>Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação.</h3>
+<h1>OBJETIVO</h1>
+<h3 align="justify">Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação.</h3>
     
 </div>
 
