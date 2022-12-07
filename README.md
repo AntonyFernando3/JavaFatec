@@ -15,11 +15,11 @@
 <br>
 Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Linguagem de Programação com o Orientador Humberto. </h4>
 
-<br>
+
 <br>
 <h1>Ementa</h1> 
 <br>
-<br>
+
     
 <h3> 
  
